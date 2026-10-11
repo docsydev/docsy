@@ -114,7 +114,7 @@
   },
   "overrides": {
     "adm-zip": "^0.6.1",
-    "katex": "^0.18.2",
+    "katex": "^0.19.0",
     "smol-toml": "^1.9.0"
   },
   "spelling": "cSpell:ignore uall -",
